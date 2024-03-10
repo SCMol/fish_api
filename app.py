@@ -1,5 +1,6 @@
 from fastapi import FastAPI, UploadFile, File
 from routes.image_analysis import analyze_image
+import os
 
 app = FastAPI()
 
