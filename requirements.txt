@@ -1,0 +1,22 @@
+#updated 9 mar 24. no version specified
+streamlit
+matplotlib
+numpy
+pandas
+folium
+streamlit-folium
+google-cloud-storage
+Pillow
+tensorflow
+requests
+sumy
+uvicorn
+python-dotenv
+fastapi
+scipy
+scikit-learn
+google-cloud-bigquery
+db-dtypes
+pyarrow
+seaborn
+python-multipart
