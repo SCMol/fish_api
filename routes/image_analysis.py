@@ -6,7 +6,7 @@ import numpy as np
 from io import BytesIO
 
 # Download the model and save it to a temporary file
-model_url = "https://storage.googleapis.com/fresh_bucket_1557/predict_models/salmon_best_8mar24.h5"
+model_url = "https://storage.googleapis.com/fresh_bucket_1557/predict_models/health_check.h5"
 response = requests.get(model_url)
 
 with tempfile.NamedTemporaryFile(suffix='.h5', delete=True) as tmp:
